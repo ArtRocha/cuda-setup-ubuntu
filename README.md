@@ -66,8 +66,8 @@ Certifique-se também de baixar o **cuDNN compatível** com a versão do CUDA es
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/cudaflow-setup.git
-cd cudaflow-setup
+git clone https://github.com/ArtRocha/cuda-setup-ubuntu.git
+cd cuda-setup-ubuntu
 ```
 
 ### 2. Dê permissão e execute o script
@@ -129,7 +129,7 @@ sudo rm -rf /usr/local/cuda*
 
 ## 📘 Licença
 
-Este projeto é livre para uso e distribuição. Use por sua conta e risco.
+Este projeto é livre para uso e distribuição.
 
 ---
 
